@@ -1,0 +1,10 @@
+[
+  {
+    "id": "LoginPage.loginTitle",
+    "defaultMessage": "It's time to get your expenses under control."
+  },
+  {
+    "id": "LoginPage.button",
+    "defaultMessage": "Login with Google"
+  }
+]

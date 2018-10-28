@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ExpenseForm.saveExpense",
+    "defaultMessage": "Save Expense"
+  },
+  {
+    "id": "ExpenseForm.description",
+    "defaultMessage": "description"
+  },
+  {
+    "id": "ExpenseForm.amount",
+    "defaultMessage": "amount"
+  },
+  {
+    "id": "ExpenseForm.note",
+    "defaultMessage": "Add a note for your expense (optional)"
+  }
+]

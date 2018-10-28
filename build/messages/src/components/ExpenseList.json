@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ExpenseList.noExpenses",
+    "defaultMessage": "No expenses"
+  },
+  {
+    "id": "ExpenseList.expense",
+    "defaultMessage": "Expense"
+  },
+  {
+    "id": "ExpenseList.expenses",
+    "defaultMessage": "Expenses"
+  },
+  {
+    "id": "ExpenseList.amount",
+    "defaultMessage": "Amount"
+  }
+]

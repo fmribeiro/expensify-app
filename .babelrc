@@ -1,4 +1,13 @@
 {
   "presets": ["env", "react"],
-  "plugins": ["transform-class-properties", "transform-object-rest-spread"]
+  "plugins": [
+    [
+      "react-intl",
+      {
+        "messagesDir": "./public/messages/"
+      }
+    ],
+    "transform-class-properties",
+    "transform-object-rest-spread"
+  ]
 }

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ExpenseListFilters.searchExpense",
+    "defaultMessage": "Search Expense"
+  },
+  {
+    "id": "ExpenseListFilters.date",
+    "defaultMessage": "date"
+  },
+  {
+    "id": "ExpenseListFilters.amount",
+    "defaultMessage": "amount"
+  }
+]

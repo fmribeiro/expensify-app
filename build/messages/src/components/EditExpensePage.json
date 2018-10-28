@@ -1,0 +1,10 @@
+[
+  {
+    "id": "EditExpensePage.editExpense",
+    "defaultMessage": "Edit Expense"
+  },
+  {
+    "id": "EditExpensePage.removeExpense",
+    "defaultMessage": "Remove Expense"
+  }
+]

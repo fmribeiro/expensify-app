@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ExpensesSummary.expense",
+    "defaultMessage": "expense"
+  },
+  {
+    "id": "ExpensesSummary.expenses",
+    "defaultMessage": "expenses"
+  },
+  {
+    "id": "ExpensesSummary.viewing",
+    "defaultMessage": "Viewing"
+  },
+  {
+    "id": "ExpensesSummary.totalling",
+    "defaultMessage": "totalling"
+  },
+  {
+    "id": "ExpensesSummary.addExpense",
+    "defaultMessage": "Add Expense"
+  }
+]
