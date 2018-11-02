@@ -6,5 +6,21 @@
   {
     "id": "EditExpensePage.removeExpense",
     "defaultMessage": "Remove Expense"
+  },
+  {
+    "id": "EditExpensePage.title",
+    "defaultMessage": "Confirm"
+  },
+  {
+    "id": "EditExpensePage.message",
+    "defaultMessage": "Are you sure to do this."
+  },
+  {
+    "id": "EditExpensePage.yes",
+    "defaultMessage": "Yes"
+  },
+  {
+    "id": "EditExpensePage.no",
+    "defaultMessage": "No"
   }
 ]
